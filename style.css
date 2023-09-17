@@ -10,6 +10,18 @@ body {
     background-color:white;
 }
 
+/* Agregar espacio y margen en parrafos */
+
+.box {
+    padding: 20px;
+}
+
+
+.box p {
+    margin: 15px;
+}
+
+/*Fin */
 header {
     background-color: #121213;
     color: #fff;
